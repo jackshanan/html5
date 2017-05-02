@@ -1,0 +1,31 @@
+#ror{
+  text-align: center;
+  border-radius: 25px;
+  background: #809fff;
+  padding: 20px;
+  height: 200px;
+  width: 600px;
+}
+#ror2{
+  text-align: left;
+  border-radius: 25px;
+  background: #999966;
+  padding: 20px;
+  height: 200px;
+  width: 300px;
+  float: left;
+}
+#ror3{
+  border-radius: 25px;
+  background: #999966;
+  padding: 20px;
+  height: 200px;
+  width: 300px;
+  float: right;
+
+}
+footer
+   {
+     background-color:#999966;
+    height: 40px;
+   }
